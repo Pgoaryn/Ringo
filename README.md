@@ -4,7 +4,7 @@ A powerful tool to help you make your own MMORPG game through using RPG Maker MV
 ## 📋 Table of Contents
 
 - [Summary](#summary)
-- [History](#history)
+- [Why you should use my plugin](#why-you-should-use-my-plugin)
 - [Features](#-features)
 - [Demo](#-demo)
 - [Installation](#-installation)

@@ -17,9 +17,19 @@ A powerful tool to help you make your own MMORPG game through using RPG Maker MV
 
 ## Summary
 
+Hello, my name is Ten.
+
+I started this project in early 2025 after discovering the MMO plugin project by Samuel Cardillo and Axel Fiolle. While Samuel was working on RPG Maker MV, Axel Fiolle was working on RPG Maker MZ. After tried using their plugin, I feel like I need a better engine so I decided to change the framework and rework the plugin. Their work using NodeJS + ReThinkDB + socket.io, their plugin still getting update regularlly so if it fits you, please check out their works. After sometime working on this plugin, I finally produced this.
+
 ---
 
-## History
+## Why you should use my plugin
+
+I used RPG Maker since 2018 as the basic version in the franchise. After switching to RPG Maker MV, the use of JavaScript and HTML5 allow me to play with the strength and start trying to create some MMORPG.
+
+After some project and 7 years later, I start to make my own plugin and create a MMO plugin to both RPG Maker MV and RPG Maker MZ since both version is very similar.
+
+Beside using NodeJS, I use Colyseus -a JavaScript framework use for games- and MongoDB -a popular Database.
 
 ---
 

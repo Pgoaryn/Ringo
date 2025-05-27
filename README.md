@@ -1,44 +1,59 @@
-# 🚀 Awesome Project
-
-A powerful tool to automate your boring tasks and make your life easier.  
-Built with ❤️ using Python and JavaScript.
+# 🚀 (MMO)RPG Maker MV/MZ
+A powerful tool to help you make your own MMORPG game through using RPG Maker MV/MZ. Tool built using NodeJS + Colyseus + MongoDB.
 
 ## 📋 Table of Contents
 
+- [Summary](#summary)
+- [History](#history)
 - [Features](#features)
+- [How to use](#how-to-use)
 - [Demo](#demo)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Configuration](#configuration)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
+- [Social Media](#social-media)
+
+
+---
+
+## Summary
+
+---
+
+## History
 
 ---
 
 ## ✨ Features
 
-- ✅ Easy to use
-- ⚡ Super fast
-- 🔒 Secure
-- ♻️ Cross-platform
-- 🧠 Smart automation with AI
+- Easy to use
+- Login/Logout Authentication
+- Change map
+- Message/Chat system
+- Cross-platform
+- Join Rooms
 
 ---
 
 ## 🎥 How to use
 
-> Watch a quick video demo of the app:
+> Watch a quick video to learn how to use:
 
 [![Demo Video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ---
 
+## 🎮 Demo
+
+Test the tool power NOW!!!
+
 ## 🛠 Installation
 
 Clone the repo and install dependencies.
 
-```bash
-git clone https://github.com/your-username/awesome-project.git
-cd awesome-project
-npm install
+## 📱 Social Media
+
+- Discord:
+- Youtube: 

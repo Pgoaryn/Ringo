@@ -26,7 +26,7 @@ Built with ❤️ using Python and JavaScript.
 
 ---
 
-## 🎥 Demo
+## 🎥 How to use
 
 > Watch a quick video demo of the app:
 

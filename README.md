@@ -13,7 +13,7 @@ A powerful tool to help you make your own MMORPG game through using RPG Maker MV
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
-- [Social Media](#social-media)
+- [Social Media](#-social-media)
 
 
 ---

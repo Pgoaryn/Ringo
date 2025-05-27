@@ -1,4 +1,4 @@
-# 🚀 (MMO)RPG Maker MV/MZ
+# 🎮(MMO)RPG Maker MV/MZ
 A powerful tool to help you make your own MMORPG game through using RPG Maker MV/MZ. Tool built using NodeJS + Colyseus + MongoDB.
 
 ## 📋 Table of Contents
@@ -26,7 +26,7 @@ A powerful tool to help you make your own MMORPG game through using RPG Maker MV
 
 ---
 
-## ✨ Features
+## Features
 
 - Easy to use
 - Login/Logout Authentication
@@ -37,7 +37,7 @@ A powerful tool to help you make your own MMORPG game through using RPG Maker MV
 
 ---
 
-## 🎥 How to use
+## How to use
 
 > Watch a quick video to learn how to use:
 
@@ -45,11 +45,11 @@ A powerful tool to help you make your own MMORPG game through using RPG Maker MV
 
 ---
 
-## 🎮 Demo
+## Demo
 
 Test the tool power NOW!!!
 
-## 🛠 Installation
+## Installation
 
 Clone the repo and install dependencies.
 

@@ -8,7 +8,6 @@ A powerful tool to help you make your own MMORPG game through using RPG Maker MV
 - [Features](#-features)
 - [Demo](#-demo)
 - [Installation](#-installation)
-- [Usage](#-usage)
 - [Configuration](#-configuration)
 - [Screenshots](#-screenshots)
 - [Contributing](#-contributing)
